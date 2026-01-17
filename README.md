@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  <br>Building Next.js applications with Firebase, focusing on download flows, real-time data, and smooth mobile UX (especially iOS).<br><br>👯 I’m looking to collaborate on  <br>Full-stack Web Apps, UI-heavy products that need clean architecture.<br><br>🤝 I’m looking for help with  <br>Optimizing performance, scaling Firestore data models, and advanced mobile browser behaviors.<br><br>🌱 I’m currently learning  <br>React, Flutter <br><br>💬 Ask me about  <br>Websites, UI/UX problem solving.<br><br> Check out my website -> beqaksovreli.online
+🔭 I’m currently working on  <br>Building Next.js applications with Firebase, focusing on download flows, real-time data, and smooth mobile UX (especially iOS).<br><br>👯 I’m looking to collaborate on  <br>Full-stack Web Apps, UI-heavy products that need clean architecture.<br><br>🤝 I’m looking for help with  <br>Optimizing performance, scaling Firestore data models, and advanced mobile browser behaviors.<br><br>🌱 I’m currently learning  <br>React, Flutter <br><br>💬 Ask me about  <br>Websites, UI/UX problem solving.<br><br> Check out my website -> https://www.beqaksovreli.online
 
 
 ## 🌐 Socials:
