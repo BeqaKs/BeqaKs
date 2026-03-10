@@ -1,13 +1,13 @@
 # 💫 About Me:
-🔭 I’m currently working on  <br>**[Tablo](https://tablo.ge)** — Integrating an **AI Dining Concierge** and real-time reservation logic. Building premium Next.js and Expo experiences powered by **Supabase** and **Local LLMs (Ollama)**.
+🔭 I’m currently working on  <br>**[Tablo](https://tablo.ge)** — A premium restaurant reservation platform in Georgia. Building high-performance Next.js web applications and Expo mobile experiences.
 
-👯 I’m looking to collaborate on  <br>AI-driven SaaS products, agentic workflows, and high-end UI/UX products.
+👯 I’m looking to collaborate on  <br>Scalable SaaS products, UI-heavy interfaces, and mobile-first products that demand exceptional UX.
 
-🤝 I’m looking for help with  <br>Optimizing local LLM inference, advanced agentic AI patterns, and scaling real-time distributed systems.
+🤝 I’m looking for help with  <br>Advanced animations, performance optimization for complex data models, and agentic AI patterns.
 
-🌱 I’m currently learning  <br>**Agentic AI**, Local LLM orchestration with **Ollama**, and Advanced System Architecture.
+🌱 I’m currently learning  <br>Flutter, AI Integration with **Ollama**, and Advanced React Patterns.
 
-💬 Ask me about  <br>Building for the Georgian market, AI integration in web/mobile, and UI/UX problem solving.
+💬 Ask me about  <br>Full-stack development, UI/UX problem solving, and building for the Georgian market.
 
 Check out my website -> [beqaksovreli.online](https://www.beqaksovreli.online)
 
@@ -20,14 +20,13 @@ Check out my website -> [beqaksovreli.online](https://www.beqaksovreli.online)
 # 💻 Tech Stack:
 ![Next JS](https://img.shields.io/badge/Next--JS-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge&logo=ollama&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI--Agents-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge&logo=ollama&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 # 📊 GitHub Stats:
 &nbsp; ![Beqa's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeqaKs&show_icons=true&theme=transparent&hide_border=true&title_color=3ECF8E&icon_color=3ECF8E&text_color=ffffff)
