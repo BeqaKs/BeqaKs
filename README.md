@@ -7,7 +7,7 @@
 
 🌱 I’m currently learning  <br>Advanced React Patterns, Flutter, and System Architecture.
 
-💬 Ask me about  <br>Full-stack development, UI/UX problem solving, and building for the Georgian market.
+💬 Ask me about  <br>Full-stack development, UI/UX problem solving, and building mobile applications
 
 Check out my website -> [beqaksovreli.online](https://www.beqaksovreli.online)
 
