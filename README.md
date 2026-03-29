@@ -5,7 +5,7 @@
 
 🤝 I’m looking for help with  <br>Advanced animations, performance optimization for complex data models, and agentic AI patterns.
 
-🌱 I’m currently learning  <br>Flutter, AI Integration with **LLMS**, and Advanced React Patterns.
+🌱 I’m currently learning  <br>Flutter, LLMS, and Advanced React Patterns.
 
 💬 Ask me about  <br>Full-stack development, UI/UX problem solving, and building for the Georgian market.
 
