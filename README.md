@@ -1,14 +1,11 @@
-# 💫 About Me:
-🔭 I’m currently working on  <br>**[Tablo](https://tablo.ge)** — A premium restaurant reservation platform in Georgia. Building high-performance Next.js web applications and Expo mobile experiences.
+# 💫 About Me
 
-👯 I’m looking to collaborate on  <br>Scalable SaaS products, UI-heavy interfaces, and mobile-first products that demand exceptional UX.
+I am a full-stack product engineer specializing in high-performance ecosystem architecture and UI-focused development. 
 
-🤝 I’m looking for help with  <br>Advanced animations, performance optimization for complex data models, and agentic AI patterns.
-
-🌱 I’m currently learning  <br>Flutter, LLMS, and Advanced React Patterns.
-
-💬 Ask me about  <br>Full-stack development, UI/UX problem solving, and building for the Georgian market.
-
+* 🔭 **Currently architecting [Tablo](https://tablo.ge)** — A premium restaurant reservation ecosystem in Georgia. I'm engineering the complete vertical: from a high-performance interactive Hostess Panel (real-time floor plans, SMS paging, internal Custom CRM) to the consumer-facing iOS/Android apps using Next.js and Expo.
+* 👯 **Open to collaborating on** — Scalable SaaS architecture, high-fidelity UI engineering, and mobile-first platforms where exceptional user experience is non-negotiable.
+* 🤝 **Looking to exchange knowledge on** — Advanced micro-animations, front-end performance optimization for complex data models, and integrating Agentic AI patterns into modern consumer apps.
+* 🌱 **Currently exploring** — Flutter for cross-platform expansion, applied LLM integrations, and advanced React rendering patterns.
 Check out my website -> [beqaksovreli.online](https://www.beqaksovreli.online)
 
 
