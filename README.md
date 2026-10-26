@@ -2,10 +2,7 @@
 
 I am a full-stack product engineer specializing in high-performance ecosystem architecture and UI-focused development. 
 
-*  **Currently architecting [Tablo](https://tablo.ge)** — A premium restaurant reservation ecosystem in Georgia. I'm engineering the complete vertical: from a high-performance interactive Hostess Panel (real-time floor plans, SMS paging, internal Custom CRM) to the consumer-facing iOS/Android apps using Next.js and Expo.
 *  **Open to collaborating on** — Scalable SaaS architecture, high-fidelity UI engineering, and mobile-first platforms where exceptional user experience is non-negotiable.
-*  **Looking to exchange knowledge on** — Advanced micro-animations, front-end performance optimization for complex data models, and integrating Agentic AI patterns into modern consumer apps.
-*  **Currently exploring** — Flutter for cross-platform expansion, applied LLM integrations, and bleeding-edge React rendering patterns.
 *  **Actively Contributing To** - https://github.com/morluto/rea
 
 
