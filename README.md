@@ -6,6 +6,8 @@ I am a full-stack product engineer specializing in high-performance ecosystem ar
 *  **Open to collaborating on** — Scalable SaaS architecture, high-fidelity UI engineering, and mobile-first platforms where exceptional user experience is non-negotiable.
 *  **Looking to exchange knowledge on** — Advanced micro-animations, front-end performance optimization for complex data models, and integrating Agentic AI patterns into modern consumer apps.
 *  **Currently exploring** — Flutter for cross-platform expansion, applied LLM integrations, and bleeding-edge React rendering patterns.
+*  **Actively Contributing To** - https://github.com/morluto/rea
+
 
 Check out my website -> https://www.beqaksovreli.online
 
