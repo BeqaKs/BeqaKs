@@ -25,10 +25,5 @@ Check out my website -> https://www.beqaksovreli.online
 ![LM Studio](https://img.shields.io/badge/LM_Studio-black?style=for-the-badge&logo=lmstudio&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-# 📊 GitHub Stats:
-&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeqaKs&layout=compact&theme=transparent&hide_border=true&title_color=3ECF8E&text_color=ffffff)
-<br/>
-&nbsp; ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BeqaKs&theme=transparent&hide_border=true&stroke=3ECF8E&ring=3ECF8E&fire=3ECF8E&currStreakLabel=3ECF8E)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=BeqaKs&icon=0&color=0)](https://visitcount.itsvg.in)
