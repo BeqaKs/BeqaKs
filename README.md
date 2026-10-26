@@ -27,8 +27,6 @@ Check out my website -> https://www.beqaksovreli.online
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 # 📊 GitHub Stats:
-&nbsp; ![Beqa's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeqaKs&show_icons=true&theme=transparent&hide_border=true&title_color=3ECF8E&icon_color=3ECF8E&text_color=ffffff)
-<br/>
 &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeqaKs&layout=compact&theme=transparent&hide_border=true&title_color=3ECF8E&text_color=ffffff)
 <br/>
 &nbsp; ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BeqaKs&theme=transparent&hide_border=true&stroke=3ECF8E&ring=3ECF8E&fire=3ECF8E&currStreakLabel=3ECF8E)
