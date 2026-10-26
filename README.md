@@ -24,7 +24,6 @@ Check out my website -> https://www.beqaksovreli.online
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![LM Studio](https://img.shields.io/badge/LM_Studio-black?style=for-the-badge&logo=lmstudio&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 # 📊 GitHub Stats:
 &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeqaKs&layout=compact&theme=transparent&hide_border=true&title_color=3ECF8E&text_color=ffffff)
